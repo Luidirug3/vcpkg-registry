@@ -1,5 +1,5 @@
 {
   "default": {
-    "atx-logger": { "baseline": "1.0.0", "port-version": 0 }
+    "atx-commons": { "baseline": "1.0.0", "port-version": 0 }
   }
 }

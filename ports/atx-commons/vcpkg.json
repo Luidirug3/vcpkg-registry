@@ -1,8 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
-  "name": "atx-logger",
+  "name": "atx-commons",
   "version": "1.0.0",
-  "description": "A simple spdlog wrapper",
+  "description": "C++ project of commons shared library",
+  "homepage": "https://dev.azure.com/AritexSoftware/Aritex.Commons",
   "dependencies": [
     "spdlog"
   ]
