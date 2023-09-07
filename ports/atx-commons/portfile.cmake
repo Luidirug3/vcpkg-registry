@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL https://AritexSoftware@dev.azure.com/AritexSoftware/Aritex.Commons/_git/Aritex.Commons
-  REF d5a1286ed6a8cda74c3c00990fb62fe3323aaf9b
+  REF e2ffaf8026d66984e3c75949eddd31dc26960133
   HEAD_REF develop
 )
 
